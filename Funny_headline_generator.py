@@ -9,4 +9,4 @@ places = ["Delhi", "Mumbai", "Furfuri Nagar", "India Gate", "the Moon", "Mars", 
           "a Minecraft village", "the backrooms", "Hogwarts", "Gotham City", "Spongebob's Home", "a potato farm", "a haunted railway station", "an abandoned shopping mall", "a secret underground bunker"]
 sentence = (
     f"\"{random.choice(sub)} {random.choice(action)} {random.choice(places)}\"")
-print(sentence)
+print(f"Today's Headline Is:\n{sentence}")
