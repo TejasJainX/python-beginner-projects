@@ -58,8 +58,4 @@ while True:
             print('You lose')
             continue
 
-
-INCOMPLETE
-
-
 # REMOVED INLINE SUGGEST TO DO ON MY OWN
